@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "name": "Overlay",
+      "executable_prefix": "Overlay_",
+      "icon": "Overlay_icon.png",
+      "version": "1.0"
+    },
+    {
+      "name": "External App",
+      "executable_prefix": "ExtApp_",
+      "icon": "ext_app_icon.png",
+      "version": "1.0",
+      "is_installer": true,
+      "installed_path": "%LOCALAPPDATA%\\Programs\\ExtApp\\ExtApp.exe",
+      "download_from_release": true,
+      "release_tag": "v1.0.0"
+    }
+  ]
+}

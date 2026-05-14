@@ -1,10 +1,10 @@
 {
   "apps": [
     {
-      "name": "Overlay",
-      "executable_prefix": "Overlay_",
-      "icon": "Overlay_icon.png",
-      "version": "1.0"
+      "name": "TimeApp",
+      "executable_prefix": "TimeApp_",
+      "icon": "TimeApp_icon.png",
+      "version": "00.01"
     },
     {
       "name": "External App",
